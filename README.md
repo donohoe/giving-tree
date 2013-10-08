@@ -5,6 +5,8 @@ Help schools or community associations raise funds through Amazon referral progr
 
 Right now this is specific to Google Chrome but it can be adapted to Safari (in the works).
 
+It is intended that this extension would be used to help schools and community organizations - as opposed to individual gain.
+
 Overview
 --------
 
