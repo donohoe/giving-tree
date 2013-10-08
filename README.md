@@ -14,7 +14,7 @@ My daughters school uses Amazon Refferal Program to raise money for the school. 
 - You can installit once and forget about it
 - It can do more
 
-The extension does many things things:
+The extension does many things things: Refferal Tags and Wishlists.
 
 Referral Tags
 -------------
